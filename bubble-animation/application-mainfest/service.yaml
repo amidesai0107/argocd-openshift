@@ -5,7 +5,7 @@ metadata:
   labels:
     app: bubble-animation
   name: bubble-animation
-  namespace: openshift-gitops
+  namespace: bubble-animation
 spec:
   ports:
   - port: 8080
